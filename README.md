@@ -19,7 +19,12 @@ A lightweight VPN prototype built using Python sockets and TLS encryption. It se
 - **Process:** Server encrypts + receives → Decrypts → Logs bandwidth → Echoes back securely  
 - **Output:**  
   - Secure message echoed back  
-  - Data usage displayed (e.g., `Client 192.168.0.2 transferred 4520 bytes`)  
+  - Data usage displayed (e.g., `Client 192.168.0.2 transferred 4520 bytes`)
+<img width="1542" height="847" alt="image" src="https://github.com/user-attachments/assets/c6769dd9-04f0-448f-afa8-83724a2d89d1" />
+
+<img width="1597" height="934" alt="image" src="https://github.com/user-attachments/assets/d0599d11-dffa-48df-8b7c-8d26e832ce7b" />
+
+
 
 ## ▶️ Run Instructions
 1. Generate certificates (self-signed for testing):  
